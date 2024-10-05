@@ -4,3 +4,7 @@ scikit-learn
 nltk
 textblob
 emoji
+gensim
+plotly
+ipykernel
+nbformat
