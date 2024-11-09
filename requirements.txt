@@ -8,3 +8,10 @@ gensim
 plotly
 ipykernel
 nbformat
+langchain
+langchain_community 
+pypdf
+bs4
+arxiv
+wikipedia
+pymupdf
